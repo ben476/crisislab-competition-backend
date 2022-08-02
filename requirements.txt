@@ -1,0 +1,9 @@
+python-dotenv
+flask-sqlalchemy
+flask
+flask-socketio
+requests
+google-api-python-client
+simple-websocket
+python-dotenv
+flask-migrate
